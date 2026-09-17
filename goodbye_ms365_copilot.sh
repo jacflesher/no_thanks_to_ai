@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# 🚫🤖 Microsoft 365 / Copilot disablement checklist for macOS
+# Microsoft 365 / Copilot disablement checklist for macOS
 # ---------------------------------------------------------------
 # This script is intentionally read-only: it detects installed apps,
 # reports versions, checks known Office privacy preferences, and prints
